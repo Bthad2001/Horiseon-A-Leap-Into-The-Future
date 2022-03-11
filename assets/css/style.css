@@ -25,6 +25,7 @@ body {
     color: #d9dcd6;
 }
 
+/* Styles added to Nav Bar Titles */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,6 +51,7 @@ a {
 p {
     font-size: 16px;
 }
+/* Styles for Main Image */
 
  .hero {
     height: 800px;
@@ -76,6 +78,7 @@ p {
     margin-left: 20px;
 }
 
+/* Styling of Benefits */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -129,6 +132,7 @@ p {
     max-width: 150px;
 }
 
+/* Styles of Title Link Paragraphs with Image */
 .benefit-cost img {
     display: block;
     margin: 10px auto;
@@ -189,6 +193,7 @@ p {
     font-size: 36px;
 }
 
+/* Styles for Coprrights */
 .footer {
     padding: 30px;
     clear: both;
